@@ -16,4 +16,4 @@ Likes Unit/Feature tests
 
 Proficient in English, native Spanish speaker.
 
-Currently learning Rust and NeoVim.
+Learning Python and AI.
