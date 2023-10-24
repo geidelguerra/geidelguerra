@@ -4,7 +4,9 @@ I've been learning to code for myself since I was 16. I started with Macromedia 
 
 I have experience developing SaaS applications, REST APIs, Third-Party integrations (Facebook, Twitter, Google, LinkedIn, YouTube, Stripe) and basic websites using NuxtJs and Vue.
 
-I have some experience with AWS and DevOps. I use Digital Ocean for my personal stuff.
+I prefer Backend and cli tools development.
+
+I have some experience with AWS and DevOps. I use Digital Ocean, fly.io and Netlify for my personal stuff.
 
 I have basic knowledge of Git. I use GitHub for all my personal and company projects.
 
