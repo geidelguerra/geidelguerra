@@ -1,11 +1,7 @@
-I'm a self taught developer specialized in web and cli tools. Hoping to make some games in the future.
+My name is Geidel Guerra. I'm a self taught developer with some formal studies, interested in low-level programming and making games.
 
-I've been learning to code for myself since I was 16. I started with Macromedia Flash 8 offline help. Then I jumped to C++, C#, Java, Python and eventually landed with PHP and JavaScript.
+A bit of condensed history about me: I started learning to code using Macromedia Flash 8's offline help, making a phone book app to store phone numbers of StarCraft players (back then we used dialup peer to peer connections to play using phone numbers). I did some other stuff I don't remember. Fast forward in time, after finishing school (IT Bachelor) and dropping out of University in third year (IT Engineer) my first job was making games with Unity. After that I have been developing web applications that range from simple portfolio websites to complex e-commerce multi-tenancy Saas, command line tools to automate processes, browser extensions, configuring CI pipelines and Linux servers.
 
-I prefer working on cli tools and third party integrations on the backend to improve workflows, add new features to existing systems, create new systems. I like the challenge of learning a new language or tooling to solve a problem.
+I'm a fast learner (everybody says that), highly autonomous and self motivated. I have a broad set of skills that makes me easy to align to any kind of task and the will to specialize in depth if needed.
 
-I have some experience with AWS and DevOps. I use Digital Ocean for my personal stuff.
-
-Proficient in English, native Spanish speaker.
-
-Now mostly working on cli tools using Python and learning C by making games with Raylib.
+Currently learning C and how to make games. Next will be games in assembly (you read that correctly).
